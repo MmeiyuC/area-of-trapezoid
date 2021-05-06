@@ -1,0 +1,25 @@
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+  width:50%;
+  float: right;
+}
+
+button {
+  background-color: white;
+  margin-left: 25px;
+  color: black;
+  font-family: 'Ubuntu', sans-serif;
+  border: 2px solid #48bfe3;
+  border-radius: 12px;
+  padding: 10px 40px;
+}
+
+.warning {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  border: 2px solid #ffd60a;
+  width: 395px;
+}
